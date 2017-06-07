@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>辣条辰博客</title>
+  <subtitle>一入编程深似海,从此妹纸是路人</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://latiaochen.github.io/"/>
+  <updated>2017-06-07T02:17:01.874Z</updated>
+  <id>https://latiaochen.github.io/</id>
+  
+  <author>
+    <name>辣条辰</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>开博第一记</title>
+    <link href="https://latiaochen.github.io/uncategorized/2017-06-02-%E5%BC%80%E5%8D%9A%E7%AC%AC%E4%B8%80%E8%AE%B0.html"/>
+    <id>https://latiaochen.github.io/uncategorized/2017-06-02-开博第一记.html</id>
+    <published>2017-06-02T05:16:35.000Z</published>
+    <updated>2017-06-07T02:17:01.874Z</updated>
+    
+    <content type="html"><![CDATA[<p>记录编程生涯的点滴,打打怪,升升级…</p>
+<a id="more"></a>
+<p>日后再说~</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;记录编程生涯的点滴,打打怪,升升级…&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
